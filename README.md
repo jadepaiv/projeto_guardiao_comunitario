@@ -1,6 +1,5 @@
 ### Projeto Guardião Comunitário: Sistema Inteligente de Alertas e Suporte em Favelas
 
-![image](https://github.com/jadepaiv/projeto_guardiao_comunitario/assets/165190427/bdec0322-682a-4143-a7c8-2531b1e67bc2)
 
 ### Introdução
 
@@ -14,6 +13,8 @@ O principal objetivo é transformar a segurança comunitária em favelas, oferec
 * **Oferecer orientações de segurança personalizadas** de acordo com a localização e as necessidades individuais.
 * **Fortalecer a resiliência da comunidade** por meio do acesso a recursos de apoio e informações.
 * **Promover a paz e a segurança** a longo prazo através da análise de dados e implementação de estratégias de prevenção.
+
+![image](https://github.com/jadepaiv/projeto_guardiao_comunitario/assets/165190427/bdec0322-682a-4143-a7c8-2531b1e67bc2)
 
 ### Desenvolvimento
 
